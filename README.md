@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanTolga
-- 👀 I’m interested in Web Clients
-- 🌱 I’m currently learning .NET and Web Design 
-- 📫 How to reach me Discord: Tolga#8341
+- 👀 I’m interested in Unity
+- 🌱 I’m currently learning Unity Game Development 
+- 📫 How to reach me Discord: san_tolga
 
 <!---
 SanTolga/SanTolga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
